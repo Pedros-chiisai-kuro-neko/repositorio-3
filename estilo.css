@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 189, 226);
+    color: rgb(239, 26, 26);
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family:cursive
+}
+button{
+justify-content: center;
+width: 100px;
+height: 50px;
+color: rgb(128, 15, 15);
+background:  rgb(239, 26, 26);
+border-radius: 10px;
+box-shadow: 0 0 10px;
+}
